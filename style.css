@@ -33,6 +33,7 @@ body{
     background-color: var(--cor0);
     margin: auto;
     max-width: 1000px;
+    box-shadow: 1px 1px 15px -3px;;
 }               
 
 header{
@@ -183,6 +184,10 @@ aside ul{
 aside li::before{
     content: "✔️";
 }
+
+                /************
+                    main
+                 **************/
 
 footer{
     background-color: var(--cor4);
